@@ -1,0 +1,6 @@
+{
+    "java.dependency.packagePresentation": "flat",
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "appService.preDeployTask": "package:demo",
+    "appService.deploySubpath": "target/demo.war"
+}
